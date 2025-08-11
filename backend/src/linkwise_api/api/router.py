@@ -1,0 +1,2 @@
+ """Root API router placeholder."""
+

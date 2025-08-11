@@ -17,13 +17,12 @@ A tiny, extensible URL shortener that is fast to run locally and easy to evolve.
 
 ### Possible stack
 - FastAPI, PostgreSQL, Docker, GitHub Actions, optional Redis for rate limits
-- Or Express, PostgreSQL, Docker, GitHub Actions, optional Redis
 
 ## Why
 Practice CRUD, migrations, API design, testing, and delivery. Add analytics and perf hardening in small steps.
 
 ## Stack
-FastAPI or Express • PostgreSQL • Docker • GitHub Actions
+FastAPI • PostgreSQL • Docker • GitHub Actions
 
 ## Architecture
 - API service exposes link CRUD and redirect
